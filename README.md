@@ -12,7 +12,8 @@ Welcome to the store storage repo. Please follow the guide below to add a plugin
 {
     "name": "",
     "desc": "",
-    "author": "download"
+    "author": "",
+    "download": ""
 }
 ```
             
